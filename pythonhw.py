@@ -68,15 +68,15 @@
 # print(var5/2)
 # print(var6/2)
 
-x = input('doggie age: ')
-y = ''
+# x = input('doggie age: ')
+# y = ''
 
-if float(x) == 0:
-  print('your doggie is a newborn!')
-elif float(x) <= 2:
-  print((float(x)/10) * 100, 'years old') 
-elif float(x) > 2:
-  y = 20 + (float(x) -2) * 7
-  print(y)
+# if float(x) == 0:
+#   print('your doggie is a newborn!')
+# elif float(x) <= 2:
+#   print((float(x)/10) * 100, 'years old') 
+# elif float(x) > 2:
+#   y = 20 + (float(x) -2) * 7
+#   print(y)
 
 #Done
