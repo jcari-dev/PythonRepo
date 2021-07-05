@@ -29,17 +29,11 @@
 #      - What you entered is xx characters long
 # 3. Return to step 1, unless the word 'quit' was entered.
 
-#P2
-
-# x = input('Sentence Char Length Checker: ')
-
-# if x == 'quit':
-#   print('bye!')
-#   quit()
-
-# print(len(x))
-
-# Done
+# phrase = ''
+# while phrase != 'quit':
+#   phrase = input('Please enter a word or phrase: ')
+#   print(f'What you entered is {len(phrase)} characters long')
+# LGTM!!!
 
 # exercise-03 Calculate Dog Years
 
