@@ -64,7 +64,7 @@ from decimal import Decimal
  
 #     dog_years = human_years * 10
 
-#   elif human_years < 3 and human_years < 30:
+#   elif human_years > 3 and human_years < 30:
 
 #     dog_years = 20 + (human_years - 2) * 7
 #     print(f"The dog's age in dog years is {dog_years}")
